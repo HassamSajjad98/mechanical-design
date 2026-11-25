@@ -1,0 +1,14 @@
+{
+  "air_power_kw": 2.0,
+  "tip_speed_m_s": 42.51622057858187,
+  "pressure_coefficient": 0.46100904979345114,
+  "exit_velocity_m_s": 10.526120574860801,
+  "shaft_power_kw": 2.7777777777777777,
+  "torque_nm": 18.293671619758086,
+  "motor_required_kw": 3.3333333333333335,
+  "reference_kwh": 22222.222222222223,
+  "proposed_kwh": 18518.51851851852,
+  "saved_kwh": 3703.7037037037044,
+  "saved_eur": 666.6666666666667,
+  "saved_kgco2e": 185.18518518518522
+}

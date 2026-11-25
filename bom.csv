@@ -1,0 +1,5 @@
+component,quantity,material_candidate,unit_mass_kg,total_mass_kg
+backplate,1,S235 mild steel,9.618,9.618
+front_shroud,1,S235 mild steel,3.403,3.403
+hub,1,S235 mild steel,1.403,1.403
+blade,10,S235 mild steel,0.491,4.912
